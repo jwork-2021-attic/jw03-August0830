@@ -18,7 +18,7 @@ Scene调用了上述过程，因此在之前代码的基础上只是将类加载
 
 ### HeapSorter
 
-![example.HeapSorter](/home/njucs/Java/jw03-August0830/example.HeapSorter.png)
+![](/home/njucs/Java/jw03-August0830/example.HeapSorter.png)
 
 [![asciicast](https://asciinema.org/a/439483.svg)](https://asciinema.org/a/439483)
 
